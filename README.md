@@ -9,6 +9,6 @@ Um das Texturepack zu benutzen befolgen Sie folgende Schritte:
 4. Kopieren Sie die heruntergeladene .zip-Datei in den Ordner und entpacken diese dort, sie sollten nun einen Ordner namens "1.11-1.13 §n§4Minekart Resourcepack" sehen und einen Ordner namens "for readme.md". Löschen Sie nun die heruntergeladene .zip-Datei und den Ordner "for readme.md".
 5. Wechseln Sie zurück zu Minecraft, sollte dort das Texturepack noch nicht zu sehen sein klicken Sie Done --> Resource Packs..., klicken Sie nun den Pfeil auf dem Bild (es sollte auch funktionieren, selbst wenn Minecraft es rot hinterlegt). Nun sollte das Texturepack auf der rechten Seite sein und sobald Sie auf Done klicken ist das Texturepack angewendet.
 
-###Preview:
+### Preview:
 
-![8k Preview from 12.09.18](./for readme.md/demo 8k from 17.09.2018.png)
+![8k preview from 17.09.2018](TJC-MKTP/for%20readme.md/demo%208k%20from%2017.09.2018.png)
