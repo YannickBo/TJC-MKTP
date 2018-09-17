@@ -11,4 +11,4 @@ Um das Texturepack zu benutzen befolgen Sie folgende Schritte:
 
 ### Preview:
 
-![8k preview from 17.09.2018](TJC-MKTP/for%20readme.md/demo%208k%20from%2017.09.2018.png)
+![8k preview from 17.09.2018](./for%20readme.md/demo%208k%20from%2017.09.2018.png)
